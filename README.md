@@ -7,16 +7,14 @@
 ###
 
 <div align="left">
-  <a href="https://open.spotify.com/user/Marcolas/https://spotify-recently-played-readme.vercel.app/api?user=jeffreyca16&count=1">
+  <a href="https://open.spotify.com/user/Marcolas">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=Marcolas&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
 
 ###
 
-<div align="right">
-  <img height="200" src="https://www.pinterest.com/pin/433541901614283094/"  />
-</div>
+<img align="right" height="230" src="https://imgflip.com/gif/96uu70.gif"  />
 
 ###
 
