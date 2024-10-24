@@ -6,14 +6,6 @@
 
 ###
 
-<div align="left">
-  <a href="https://open.spotify.com/user/Marcolas">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Marcolas&count=5&unique=false" alt= (https://spotify-recently-played-readme.vercel.app/api?user=no4b3kbe0ninq3ao14xxnzkfn) />
-  </a>
-</div>
-
-###
-
 <h2 align="left">Stats</h2>
 
 ###
