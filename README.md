@@ -8,15 +8,9 @@
 
 <div align="left">
   <a href="https://open.spotify.com/user/Marcolas">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Marcolas&count=5&unique=false" alt="Spotify recently played"  />
-    ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=no4b3kbe0ninq3ao14xxnzkfn&unique={true|1|on|yes})
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Marcolas&count=5&unique=false" alt= (https://spotify-recently-played-readme.vercel.app/api?user=no4b3kbe0ninq3ao14xxnzkfn) />
   </a>
 </div>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=no4b3kbe0ninq3ao14xxnzkfn&unique={true|1|on|yes})
-
-###
-
-<img align="right" height="230" src="https://imgflip.com/gif/96uu70.gif"  />
 
 ###
 
