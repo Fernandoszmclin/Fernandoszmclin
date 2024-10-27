@@ -1,8 +1,8 @@
-<h1 align="left">🔥Famoso fazedor de gambiarra :)</h1>
+<h1 align="left">Hey, welcome to my account!</h1>
 
 ###
 
-<p align="left">- Estudante de Engenharia da Computação.</p>
+<h6 align="left">- Student of Computer Engineering</h6>
 
 ###
 
@@ -23,6 +23,20 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/fernando-sozo-marcolin-18b336321/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/fernandoszmclin/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
