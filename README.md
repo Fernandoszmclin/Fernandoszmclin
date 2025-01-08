@@ -1,8 +1,8 @@
-<h1 align="left">Hey, welcome to my account!</h1>
+<h1 align="left">🖐🏻 Hey, welcome to my account!</h1>
 
 ###
 
-<h6 align="left">- Student of Computer Engineering</h6>
+<h6 align="left">- Student of Computer Engineering 🧑🏻‍💻</h6>
 
 ###
 
@@ -22,7 +22,8 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img align="center" alt="python" src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white  />
+  <img align="center" alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
 ###
